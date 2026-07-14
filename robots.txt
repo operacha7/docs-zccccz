@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-kkjbxg.cuansalam.sbs/sitemap.xml
